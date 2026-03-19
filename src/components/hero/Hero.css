@@ -306,6 +306,11 @@
 }
 
 @media (max-width: 768px) {
+  .hero {
+    margin-top: 80px;
+    padding-top: 60px;
+  }
+  
   .hero-container {
     grid-template-columns: 1fr;
     gap: 2rem;
